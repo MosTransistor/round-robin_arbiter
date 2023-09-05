@@ -11,7 +11,6 @@ A light round-robin arbiter for digital IC design. Support parameterized configu
 
 | TIME | request | grant | current priority | next prority |
 |      |   DCBA  |       |                  |              |
-|------|---------|-------|------------------|--------------|
 |   0  |   0110  | 0010  |    DCBA          |    BADC      |
 |------|---------|-------|------------------|--------------|
 |   1  |   0101  | 0100  |    BADC          |    CBAD      |
