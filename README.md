@@ -1,5 +1,15 @@
 # round-robin_arbiter
-A light round-robin arbiter for digital IC design. Support parameterized configuration request number
+
+## 概述/Overview
+一种数字芯片设计中常见的round-robin仲裁器。输入请求，当拍输出准予结果。支持参数化配置请求数量  
+>A universal round-robin arbiter for digital IC design. Input request, at the same cycle output grant. Support parameterized configuration request number
+
+## 架构图/Architecture diagram
+
+
+
+
+
 
 数字芯片设计中比较常用的仲裁模块
 
